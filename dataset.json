@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining data for the Lake Charles (Metro), Louisiana metro region, encompassing Lake Charles. Covers the full metropolitan dining ecosystem of a growing metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Lake Charles (Metro), Louisiana, US",
+  "export_job_id": "7102acec-3abb-4456-ab03-fae8fbaa36cc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 797806,
+  "location_name": "Lake Charles, LA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-lake-charles-metro-louisiana-us-sample-797806",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/797806/beamstation_797806_restaurants-us-lakecharlesla_SAMPLE_DIST.csv",
+  "sample_pct": 9.93,
+  "sample_records": 54,
+  "sample_sha256": "7791bd603ee421b14c9ca3443276d83651399f44ef6bcee63e3aacfcead2e004",
+  "sample_size_bytes": 221594,
+  "total_records": 544,
+  "updated_at": "2026-04-09T13:10:44.126183+00:00"
+}
